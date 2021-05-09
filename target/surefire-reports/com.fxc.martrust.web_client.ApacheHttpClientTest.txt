@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fxc.martrust.web_client.ApacheHttpClientTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.763 s - in com.fxc.martrust.web_client.ApacheHttpClientTest

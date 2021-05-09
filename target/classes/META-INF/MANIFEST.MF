@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: yuenyalung
+Build-Jdk: 11.0.4
+Implementation-Title: martrust
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.fxc
+Implementation-URL: https://spring.io/projects/spring-boot/martrust
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,10 @@
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/MartrustApplicationTests.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/exception/HandledServiceExceptionTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/web_client/ApacheHttpClientTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/exception/UnhandledServiceExceptionTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/fx_rate_service/ExchangeRatesServiceTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/config/GlobalExceptionConfigTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/exception/AbstractExceptionTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/controller/FxServiceControllerTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/fx_api/ExchangeRatesApiTest.java
+/Users/yuenyalung/Development/fxc/src/test/java/com/fxc/martrust/exception/InvalidReqBodyExceptionTest.java
